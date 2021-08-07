@@ -1,3 +1,0 @@
-/home/mk/coding/CPP/Coding-Question/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/mk/coding/CPP/Coding-Question/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/mk/coding/CPP/Coding-Question/cmake-build-debug/CMakeFiles/Coding_Question.dir

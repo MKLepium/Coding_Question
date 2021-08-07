@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/Coding_Question.dir/main.cpp.o CMakeFiles/Coding_Question.dir/Timer.cpp.o  -o Coding_Question 
