@@ -29,7 +29,7 @@ bool sumOfTwo_intuitive(std::vector<int> a, std::vector<int> b, int target_value
 bool sumOfTwo_complementFirst(std::vector<int> a, std::vector<int> b, int target_value);
 
 /*
- * Trading bad time complexity for space complexity, worst case time complexity (O(n*n))
+ * Trading bad time complexity for space complexity, worst case time complexity (O(n+n))
  */
 bool sumOfTwo_complementFirst_Hash(std::vector<int> a, std::vector<int> b, int target_value);
 
