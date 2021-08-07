@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mk/coding/CPP/Coding-Question/Timer.h
+iostream
+-
+chrono
+-
+
+/home/mk/coding/CPP/Coding-Question/main.cpp
+iostream
+-
+vector
+-
+unordered_set
+-
+functional
+-
+chrono
+-
+map
+-
+Timer.h
+/home/mk/coding/CPP/Coding-Question/Timer.h
+
