@@ -1,9 +1,7 @@
 #include <iostream>
 #include <vector>
 #include <unordered_set>
-#include <functional>
 #include <chrono>
-#include <map>
 #include "Timer.h"
 
 using std::chrono::high_resolution_clock;
@@ -11,7 +9,7 @@ using std::chrono::duration_cast;
 using std::chrono::duration;
 using std::chrono::milliseconds;
 
-#define DUMP(a)  std::cout << #a;
+
 
 
 /*
